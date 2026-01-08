@@ -1,6 +1,7 @@
+# Elizabeth Orozco and Georgia Vasey
 # Introduction to Git and GitHub
 
-Welcome! Today's assignment will walk you through using Git, GitHub, RStudio to interact with both, and, along the way, practice using Quarto and RStudio. Cool! The content has been adapted from a [workshop](https://rstudio-conf-2020.github.io/r-for-excel/github.html) that Openscapes developed.
+Welcome!  Today's assignment will walk you through using Git, GitHub, RStudio to interact with both, and, along the way, practice using Quarto and RStudio. Cool! The content has been adapted from a [workshop](https://rstudio-conf-2020.github.io/r-for-excel/github.html) that Openscapes developed.
 
 Please work with a partner on one computer and take turns "driving" (touching the keyboard) vs. "navigating" (figuring out what to do). This is called pair programming and is common practice in industry and computer science.
 
@@ -233,7 +234,7 @@ In your README, find the Header. It should begin with a hashtag `#`.
 
 Please edit it to include your name and your partner's name. Make sure you keep the `#` so that it still displays as a header! Something like:
 
-`# Malin's GitAndGitHub repo`
+`# Elizabeth and Georgia's GitAndGitHub repo`
 
 Save this file (Cmd/Ctrl-S or File -> Save) and notice how it shows up in your Git tab. It now has a blue “M”: GitHub is already tracking this file line-by-line, so it knows that something is different: it’s Modified with an M.
 
